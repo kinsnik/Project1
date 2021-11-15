@@ -10,7 +10,7 @@ We hypothesized that there would be a negative correlation between TSLA and USO,
 
 **Conclusion**
 
-Through our analysis we found TSLA's correlation with USO to be surprisingly low but not negative, which we hypothesized. The market's correlation to oil is twice that of Tesla over the time period. We also determined TSLA is a better current and future investment than USO.
+Through our analysis we found TSLA's correlation with USO to be surprisingly low but not negative, which we hypothesized. The market's correlation to oil is twice that of TSLA over the time period. We also determined TSLA is a better current and future investment than USO.
 
 **Technologies (pip list)**
 This project uses: 
