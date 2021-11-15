@@ -6,9 +6,11 @@ In this project we research the relationship between Electric Vehicles (TSLA) an
 
 Correlations, Sharpe Ratios, and Betas shown. Correlations for different time periods are also explored.  Montecarlo is employed in order to forecast the future prices of TSLA and USO in order to determine if a trend will continue in EV vs Oil prices. 
 
-**End Result of Analysis**
+We hypothesized that there would be a negative correlation between TSLA and USO, for example when TSLA stock prices rise, USO stock prices would fall. 
 
-Conclusion: Through our analysis we found TSLA's correlation with oil to be surprisngly low. The SPY's were twice as correlated as TSLA was to OIL over the time period. We also determine TSLA is a better investment than USO.
+**Conclusion**
+
+Through our analysis we found TSLA's correlation with USO to be surprisingly low but not negative, which we hypothesized. The market's correlation to oil is twice that of Tesla over the time period. We also determined TSLA is a better current and future investment than USO.
 
 **Technologies (pip list)**
 This project uses: 
