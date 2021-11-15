@@ -3,8 +3,8 @@
 #Researching the correlation between Electric Vehicles and Oil#
 
 This project utilizes SQLAlchemy, Pandas datareader, and montecarlo.  The goal of the project is to explore the realtionship
-between EV manufaturers (using TSLA as the proxy) and Oil (using USO as the proxy).  In additon to correlations, sharpe ratios and betas are also 
-calculated.  Correlations for differnt time periods are also explored.  Montecarlo is employed in order to forecast the 
+between EV manufacturers (using TSLA as the proxy) and Oil (using USO as the proxy).  Correlations, Sharpe ratios, and betas are also 
+calculated.  Correlations for different time periods are also explored.  Montecarlo is employed in order to forecast the 
 prices of TSLA and USO at the end.  
 
 ## Technologies (pip list)#
