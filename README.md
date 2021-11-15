@@ -7,6 +7,10 @@ In this project we will be researching the relationship between Electric Vehicle
 This project utilizes SQLAlchemy, Pandas datareader, and Alpaca_trade_api, dotenv and Montecarlo among other technologies and systems integrated in Python. The goal of the project is to explore the realtionship between EV manufacturers (using TSLA as the proxy) and Oil (using USO as the proxy). Correlations, Sharpe ratios, and Betas are also 
 calculated. Correlations for different time periods are also explored.  Montecarlo is employed in order to forecast the future prices of TSLA and USO in order to determine if a trend will continue where EVs will be a more valuable asset than Oil.   
 
+**End Result of Analysis**
+
+We found from our comprehensive analysis that TSLA 
+
 **Technologies (pip list)**
 This project uses: 
 - Python 3.7
