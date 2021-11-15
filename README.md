@@ -36,6 +36,9 @@ git: https://github.com/kinsnik/Project1
 **License**
 GNU 
 
+**Powerpoint Presentation**
+https://github.com/kinsnik/Project1/blob/main/TSLA_vs_Oil_Presentation.pdf
+
 **Contributors**
 Max Gregory
 Kanika Sharma
